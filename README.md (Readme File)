@@ -1,0 +1,24 @@
+# WiFi Packet Sniffer
+
+This Python script captures WiFi packets and records information about them, including packet type, subtype, signal strength, source, destination, and more.
+
+## Requirements
+
+- Python 3
+- Npcap (for Windows) or libpcap (for Linux)
+- Scapy (Python library for packet manipulation)
+      - pip install scapy
+
+
+## Installation
+
+1. Clone this repository to your local machine:
+
+```shell
+git clone https://github.com/yourusername/wifi-packet-sniffer.git
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+To use this code on GitHub, create a new GitHub repository and upload the `wifispy.py` script and the 
